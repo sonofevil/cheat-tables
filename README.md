@@ -7,3 +7,4 @@ What makes this table special is that it's the only one I've found that allows e
 
 Source:
 https://fearlessrevolution.com/viewtopic.php?t=3822
+Author: TheTornadoTitan
