@@ -1,5 +1,5 @@
 # darksouls-cheatengine-table
-Backup of the best Dark Souls PTDE Cheatengine table (includes face editing)
+Backup of the best Dark Souls Prepare To Die Edition Cheatengine table (includes face editing)
 
 I had a lot of trouble finding this one, and before it gets nuked like all the game topics on the CE forums, I'm preserving it here for the future.
 
